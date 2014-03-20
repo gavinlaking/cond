@@ -1,5 +1,6 @@
-require "cond/version"
+$LOAD_PATH << File.expand_path(File.dirname(__FILE__) + '/../lib')
 
-module Cond
-  # Your code goes here...
-end
+require_relative 'cond/cond'
+require_relative 'cond/version'
+
+module Cond; end
