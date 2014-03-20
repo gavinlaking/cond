@@ -2,6 +2,9 @@
 
 Conditionals, begone!
 
+- Pushes methods to execute into Cond::Ret.
+- Uses condition outside of Cond::Ret to determine which to execute.
+
 ## Installation
 
 Add this line to your application's Gemfile:
@@ -18,7 +21,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Take a peep in the `examples` directory, then have fun!
 
 ## Contributing
 
