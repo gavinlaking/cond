@@ -1,6 +1,6 @@
 # Cond
 
-TODO: Write a gem description
+Conditionals, begone!
 
 ## Installation
 

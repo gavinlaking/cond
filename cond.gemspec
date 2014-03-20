@@ -8,9 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Cond::VERSION
   spec.authors       = ["Gavin Laking"]
   spec.email         = ["gavinlaking@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
-  spec.homepage      = ""
+  spec.summary       = "Conditional, begone!"
+  spec.homepage      = "http://www.gavinlaking.name/"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
